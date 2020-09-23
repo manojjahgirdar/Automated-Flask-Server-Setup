@@ -4,7 +4,7 @@
 A simple shell script that will setup a Python-Flask server project structure, which can be readily deployed on [IBM Cloud](https://cloud.ibm.com).
 
 
-## Steps to Run the script
+## Steps
 
 ### Step 1: Clone the Repo
 
@@ -13,7 +13,7 @@ A simple shell script that will setup a Python-Flask server project structure, w
 git clone https://github.com/manojjahgirdar/Automated-Flask-Server-Setup
 ```
 
-### Step 2: Run the shellscript
+### Step 2: Run the shell script
 
 >Make sure you have [python 3.x]() installed before proceeding.
 
@@ -65,7 +65,7 @@ chmod +x ./init-python-flask-project.sh
 
 - The project can be deployed on [IBM Cloud](https://cloud.ibm.com) by following the simple steps.
 
-## Step 3: Deploy on IBM Cloud (optional)
+### Step 3: Deploy on IBM Cloud (optional)
 
 
 - Before you proceed, make sure you have installed [IBM Cloud CLI](https://cloud.ibm.com/docs/cli?topic=cloud-cli-getting-started&locale=en-US) in your deployment machine.
